@@ -28,6 +28,3 @@ X509 Certificate Reader is a Java application designed to read X.509 certificate
 - Spring Boot
 - SLF4J (Simple Logging Facade for Java)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
